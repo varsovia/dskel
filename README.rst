@@ -29,7 +29,7 @@ Creating your project
 To create a new Django project called '**project_name**' using
 the skeleton, run the following command::
 
-    $ django-admin.py startproject --template=https://github.com/my_repo/some_path/some.file.zip --extension=py,rst,html project_name
+    $ django-admin.py startproject --template=https://github.com/varsovia/dskel/archive/master.zip --extension=py,rst,html project_name
 
 Installation of Dependencies
 =============================
